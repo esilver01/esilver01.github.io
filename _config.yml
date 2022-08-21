@@ -1,2 +1,4 @@
-theme: jekyll-theme-minimal
+plugins:
+  - jekyll-remote-theme
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 title: Ethan Silver's Personal Page
