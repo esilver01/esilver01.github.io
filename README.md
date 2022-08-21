@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![Profile Picture]([IMG_1564.jpg](https://images.weserv.nl/?url=https://raw.githubusercontent.com/esilver01/esilver01.github.io/main/IMG_1564.jpg&w=300&h=300))
+![Profile Picture](https://images.weserv.nl/?url=https://raw.githubusercontent.com/esilver01/esilver01.github.io/main/IMG_1564.jpg&w=300&h=300&mask=circle)
 
 You can use the [editor on GitHub](https://github.com/esilver01/esilver01.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
