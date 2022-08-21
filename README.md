@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![Profile Picture](IMG_1564.png)
+![Profile Picture](IMG_1564.jpg)
 
 You can use the [editor on GitHub](https://github.com/esilver01/esilver01.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,9 +25,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](IMG_1564.jpg)
+[Link](url) and ![Image](src)
 ```
-![Image](IMG_1564.jpg)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
