@@ -1,4 +1,8 @@
-I'm a senior at UC Berkeley, majoring in Physics, Astrophysics, and Data Science. My primary research interests are in observational and computational cosmology and astrophysics. I'm especially interested in research involving strong gravitational lensing and dark matter halos.
+<span style="font-size:8em;">
+
+I'm a senior at UC Berkeley, majoring in Physics, Astrophysics, and Data Science. My primary research interests are in observational and computational cosmology and astrophysics. I'm especially interested in research involving strong gravitational lensing and dark matter halos, as well as applying machine learning techniques to cosmology and astrophysics.
+  
+</span>
 
 <!-- ## Welcome to GitHub Pages
 
