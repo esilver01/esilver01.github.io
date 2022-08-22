@@ -3,4 +3,5 @@ plugins:
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 title: Ethan Silver
 color-scheme: auto
-logo: IMG_1564.jpg
+logo: (https://images.weserv.nl/?url=https://raw.githubusercontent.com/esilver01/esilver01.github.io/main/IMG_1564.jpg&w=300&h=300&fit=cover&mask=circle)
+# IMG_1564.jpg
